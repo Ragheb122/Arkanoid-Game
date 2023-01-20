@@ -1,5 +1,5 @@
 /**
- * @author Mohamed Yousef
+ * @author Ragheb Ghazi
  */
 /**
  * collision info class that has the point of it and the object.

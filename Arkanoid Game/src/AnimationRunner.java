@@ -3,7 +3,7 @@ import biuoop.GUI;
 import biuoop.Sleeper;
 
 /**
- * @author Mohamed Yousef
+ * @author Ragheb Ghazi
  */
 public class AnimationRunner {
     private GUI gui;

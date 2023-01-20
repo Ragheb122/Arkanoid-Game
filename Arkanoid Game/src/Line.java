@@ -1,5 +1,5 @@
 /**
- * @author Mohamed Yousef
+ * @author Ragheb Ghazi
  */
 public class Line {
     private Point start, end;

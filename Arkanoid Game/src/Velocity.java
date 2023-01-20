@@ -1,5 +1,5 @@
 /**
- * @author Mohamed Yousef
+ * @author Ragheb Ghazi
  */
 public class Velocity {
     private double dx, dy, speed;

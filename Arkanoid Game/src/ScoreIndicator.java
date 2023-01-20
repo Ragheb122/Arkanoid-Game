@@ -1,6 +1,6 @@
 import biuoop.DrawSurface;
 /**
- * @author Mohamed Yousef
+ * @author Ragheb Ghazi
  */
 public class ScoreIndicator implements Sprite {
     private Counter currentScore;

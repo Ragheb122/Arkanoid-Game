@@ -1,5 +1,5 @@
 /**
- * @author Mohamed Yousef
+ * @author Ragheb Ghazi
  */
 import biuoop.GUI;
 import biuoop.DrawSurface;

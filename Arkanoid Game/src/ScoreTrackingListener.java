@@ -1,5 +1,5 @@
 /**
- * @author Mohamed Yousef
+ * @author Ragheb Ghazi
  */
 public class ScoreTrackingListener implements HitListener {
     private Counter currentScore;

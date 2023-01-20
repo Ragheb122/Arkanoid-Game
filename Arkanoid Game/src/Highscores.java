@@ -2,7 +2,7 @@ import biuoop.DrawSurface;
 import biuoop.KeyboardSensor;
 
 /**
- * @author Mohamed Yousef
+ * @author Ragheb Ghazi
  */
 public class Highscores implements Animation {
     private int highScore = 0;
